@@ -65,7 +65,10 @@ Please donate if you enjoy my extension.
 
 
 ####Ashish Bubne
+-------------------------------------------------------
 This is great plugin created by Cuong, i have updated some files and made it compatible with 2.2.2  just download and place it in your app/code folder or vendor/ folder
+------------------------------------------------------
 Removed Avatar from header if you want it, you can edit  magento2-customer-avatar-sm/view/frontend/templates/account/customer.phtml file and uncomment the code 
+---------------------------------------------------------
 
 
